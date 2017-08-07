@@ -45,8 +45,8 @@ Hence, I should stay within 55kg - 56kg. So this is an algorithm that I should b
 | Measurement | Underweight (<55kg) | Desired Weight (55-56kg) | Overweight (>56kg) |
 |  --- | --- | --- |--- |
 | Lower fat (<9%) | Healthy +fat, +proteins & +vitamins; Dont run | Healthy food +fat; Dont run | light food +fat; Dont run |
-| Optimal fat (9%-10%) | Healthy food, +proteins & +vitamins; Dont run | just healthy food & workout | loght food; Run as required |
-| Higher fat (>10%) | No fat content, +proteins & +vitamins; run as required | No fat content, regular food and run for 1 hour | less food, less fat; Run for an hour |
+| Optimal fat (9%-10%) | Healthy food, +proteins & +vitamins; Dont run | just healthy food & workout | loght food; Run for an hour |
+| Higher fat (>10%) | No fat content, +proteins & +vitamins; Dont run | No fat content, regular food; Run for an hour | less food, less fat; Run for an hour |
 
 
 Comments and suggestions welcomed.
