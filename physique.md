@@ -26,6 +26,6 @@ Hence, I should stay within 55kg - 56kg. So this is an algorithm that I should b
 - If my weight < 56 kgs, I should eat relatively large quantities of proteins and vitamins  after just working out(i.e healthy food :P)
 
 
-I should do all these when maintaining my fat percentage. [Wikipedia](https://en.wikipedia.org/wiki/Body_fat_percentage) says that the body fat should be between `6-13%`. The man is `9.5%`. So I should maintain the fat percentage at 9.5% + or - 5%.
+I should do all these when maintaining my fat percentage. [Wikipedia](https://en.wikipedia.org/wiki/Body_fat_percentage) says that the body fat should be between `6-13%` for men athletes. The mean is `9.5%`. So I should strive to maintain the fat percentage at 9.5% (give or take 0.5%).
 
 Comments and suggestions welcomed.
