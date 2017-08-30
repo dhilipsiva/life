@@ -4,7 +4,7 @@ All good things should come to an end. My career is no differnet. But when will 
 
 ## When I have all achieved these things, I will retire
 
-- [ ] Build a product from scratch and scaled it to at-least 100M users
+- [ ] Build a product from scratch and scale it to at-least 100M users
 - [ ] Scale a product handle a million request per second
 - [ ] Should have built atleast 25 products from scratch
 - [ ] An Open-Source tool that atleast used by 100,000 Developers
