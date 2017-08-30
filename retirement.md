@@ -22,4 +22,5 @@ All good things should come to an end. My career is no differnet. But when will 
 - [ ] Provide technical help to starups for free
 - [ ] Raise my grand kids
 - [ ] Mentor a couple of people
-- [ ] Teach Math, Physics, Chemistry and programming to kids
+- [ ] Teach Math, Physics, Chemistry and programming to kids & college students.
+- [ ] Read a lot of Books (Sci-Fi, Fantasy)
