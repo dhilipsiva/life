@@ -6,7 +6,7 @@ All good things should come to an end. My career is no differnet. But when will 
 
 - [ ] Build a product from scratch and scale it to at-least 100M users
 - [ ] Scale a product handle a million request per second
-- [ ] Should have built atleast 25 products from scratch
+- [x] Should have built atleast 25 products from scratch
 - [ ] An Open-Source tool that atleast used by 100,000 Developers
 - [ ] Own a 4BHK home to live
 - [ ] Own a home or two home to rent out
