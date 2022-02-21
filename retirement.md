@@ -13,7 +13,7 @@ All good things should come to an end. My career is no differnet. But when will 
 - [ ] Own a Gym
 - [ ] Own a Supermarket
 - [ ] Own a commertial space - 50% to rent out for startups, 40% to incubate startups and a conference Hall on the same building to host Commertial/Community meetups/events
-- [ ] Own stocks in atleast 20 startups (Invest, ESOP and all)
+- [ ] ~Own stocks in atleast 20 startups (Invest, ESOP and all)~
 
 ## Post retirement plan
 
