@@ -42,7 +42,7 @@
 
 # Day 3: Primary Pull
 
-Neck
+1. Neck
     1. Standing Barbell Upright Shrugs & Row
 1. Biceps
     1. Standing Barbell Underhand (Normal, EZ, Hammer)
