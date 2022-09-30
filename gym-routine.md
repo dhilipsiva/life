@@ -24,6 +24,7 @@
     1. Squatted Barbell Row
     1. Squatted Fulcrum Barbell Row
     1. Bent Dumbell Upright Row
+    1. Gorilla Dumbell Row
     1. Machine Row 1
     1. Machine Row 2
     1. Machine Pulldown Row
