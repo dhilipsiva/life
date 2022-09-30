@@ -2,7 +2,7 @@
 
 1. Chest
     1. Flat/Incline/Decline Bench Press (Wide + Narrow)
-    1. Scott Machine, Flat/Incline/Decline
+    1. Smith Machine, Flat/Incline/Decline
     1. Flat Bench Barbell Pullup
     1. Dumbbell Fly (Flat/Incline/Decline)
     1. Dumbbell Press (Flat/Incline/Decline)
@@ -29,6 +29,7 @@
     1. Machine Pulldown Row
     1. Rope Machine Pulldown
     1. Butterfly Machine
+    1. Front-Declined Weighted Extention
 
 1. Biceps
     1. Standing Barbell Underhand (Normal, EZ, Hammer)
@@ -51,7 +52,7 @@
     1. Dumbbell frontal Raise
     1. Bent & Supported Dumbbell Side-wise Raise
     1. Seated Dumbell Shrugs
-    1. Seated Scott Machine Press
+    1. Seated Smith Machine Press
 
 1. Forearms
     1. Frontal Barbell Overhand Twister
@@ -70,20 +71,17 @@
 # Legs
 
 1. Butt & Thigh
-    1. Scott Machine Squat
-    1. Scott Machine Sumo Squat
-    1. Hack Squat (Front & Back)
+    1. Smith Machine Squat
+    1. Smith Machine Sumo Squat
+    1. Hack Squat
     1. Leg Press
     1. Barbell Deadlift
-    1. Scott Machine Split Squat
+    1. Smith Machine Split Squat
     1. Ankle Supported Situp Machine
     1. Machine Extention
     1. Machine Curl
     1. Lunges
 
-1. Lower Back
-    1. Front-Declined Weighted Extention
-
 1. Calves
-    1. Scott Machine Calves Extention (Standing)
+    1. Smith Machine Calves Extention (Standing)
     1. Seated Calves Extention
