@@ -1,7 +1,7 @@
 # Chest + Triceps (Push)
 
 1. Chest
-    1. Flat/Incline/Decline Bench Press (Wide + Narrow)
+    1. Flat/Incline/Decline Bench Press
     1. Smith Machine, Flat/Incline/Decline
     1. Flat Bench Barbell Pullup
     1. Dumbbell Fly (Flat/Incline/Decline)
