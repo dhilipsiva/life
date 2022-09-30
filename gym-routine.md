@@ -34,13 +34,12 @@
 1. Biceps
     1. Standing Barbell Underhand (Normal, EZ, Hammer)
     1. Standing Barbell Overhand
-    1. Seated Barbell EZ Curl
     1. Seated Dumbell Alternate Curl
-    1. Inclined Dumbell Alternate Curl
     1. Seated Dumbell Curl (With Inner Knee Support)
+    1. Seated & supported Dumbell Curl
+    1. Inclined Dumbell Alternate Curl
     1. Standing Alternate Dumbell Hammer
-    1. Rope Machine Curl Underhand
-    1. Seated Machine Curl
+    1. Rope Machine Curl (Standing & flat bench lied down)
 
 # Shoulders + Others (Hybrid)
 
