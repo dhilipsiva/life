@@ -2,11 +2,11 @@
 
 1. Chest
     1. Flat/Incline/Decline Bench Press
-    1. Smith Machine, Flat/Incline/Decline
     1. Flat Bench Barbell Pullup
     1. Dumbbell Fly (Flat/Incline/Decline)
     1. Dumbbell Press (Flat/Incline/Decline)
-    1. Flat Bench Dumbbell Pullup
+    1. Flat Bench Dumbbell Pullup 
+    1. Smith Machine, Flat/Incline/Decline
     1. Rope Machine Cross Pushdown & Pullup
     1. Inclined Machine
     1. Butterfly Machine
