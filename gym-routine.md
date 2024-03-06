@@ -1,86 +1,33 @@
-# Chest + Triceps (Push)
+## Chest and Triceps
 
-1. Chest
-    1. Flat/Incline/Decline Bench Press
-    1. Flat Bench Barbell Pullup
-    1. Dumbbell Fly (Flat/Incline/Decline)
-    1. Dumbbell Press (Flat/Incline/Decline)
-    1. Flat Bench Dumbbell Pullup 
-    1. Smith Machine, Flat/Incline/Decline
-    1. Rope Machine Cross Pushdown & Pullup
-    1. Inclined Machine
-    1. Butterfly Machine
+* Bench Press: 4 sets of 8-12 reps
+* Incline Dumbbell Press: 3 sets of 8-12 reps
+* Cable Flys: 3 sets of 10-15 reps
+* Dips: 3 sets till failure
+* Tricep Pushdowns: 3 sets of 10-12 reps
+* Overhead Tricep Extension: 3 sets of 10-12 reps
 
-1. Triceps
-    1. Flat Bench Barbell (or EZ) Extention
-    1. Seated Barbell (or EZ) Extention
-    1. Standing Dumbbell Extension
-    1. Rope Machine extention (front and reverse)
+## Back and Biceps
 
-# Wings/Back + Biceps (Pull)
+* Pull-Ups: 3 sets till failure
+* Barbell Deadlifts: 3 sets of 6-8 reps
+* Bent Over Rows: 3 sets of 8-12 reps
+* Lat Pulldowns: 3 sets of 10-12 reps
+* Barbell Curls: 3 sets of 8-12 reps
+* Hammer Curls: 3 sets of 10-12 reps
 
-1. Wings/Back
-    1. Squatted Barbell Row
-    1. Squatted Fulcrum Barbell Row
-    1. Bent Dumbell Upright Row
-    1. Gorilla Dumbell Row
-    1. Machine Row 1
-    1. Machine Row 2
-    1. Machine Pulldown Row
-    1. Rope Machine Pulldown
-    1. Butterfly Machine
-    1. Front-Declined Weighted Extention
+## Day Legs and Shoulders
 
-1. Biceps
-    1. Standing Barbell Underhand (Normal, EZ, Hammer)
-    1. Standing Barbell Overhand
-    1. Seated Dumbell Alternate Curl
-    1. Seated Dumbell Curl (With Inner Knee Support)
-    1. Seated & supported Dumbell Curl
-    1. Inclined Dumbell Alternate Curl
-    1. Standing Alternate Dumbell Hammer
-    1. Rope Machine Curl (Standing & flat bench lied down)
+* Squats: 4 sets of 8-10 reps
+* Lunges: 3 sets of 10 reps per leg
+* Leg Press: 3 sets of 10-12 reps
+* Shoulder Press: 3 sets of 8-12 reps
+* Lateral Raises: 3 sets of 12-15 reps
+* Face Pulls: 3 sets of 15 reps
 
-# Shoulders + Others (Hybrid)
+## Cardio and Core
 
-1. Shoulders (And Neck + Traps)
-    1. Seated Barbell Press, Forward & Behind
-    1. Standing Barbell Upright Row & Shrugs
-    1. Barbell Frontal Raise
-    1. Seated Dumbbell Press
-    1. Dumbbell frontal Raise
-    1. Bent & Supported Dumbbell Side-wise Raise
-    1. Seated Dumbell Shrugs
-    1. Seated Smith Machine Press
-
-1. Forearms
-    1. Frontal Barbell Overhand Twister
-    1. Barbell Underhand Twist
-    1. Dumbell Underhand Twist
-    1. Standing & Seated Dumbbell Twist
-
-
-1. Abs
-    1. Crunches
-    1. Ab Machine
-    1. Inclined Weighted Side-wise Extention
-    1. Upside-Down Hanging Crunches
-    1. Ab Machine
-
-# Legs
-
-1. Butt & Thigh
-    1. Smith Machine Squat
-    1. Smith Machine Sumo Squat
-    1. Hack Squat
-    1. Leg Press
-    1. Barbell Deadlift
-    1. Smith Machine Split Squat
-    1. Ankle Supported Situp Machine
-    1. Machine Extention
-    1. Machine Curl
-    1. Lunges
-
-1. Calves
-    1. Smith Machine Calves Extention (Standing)
-    1. Seated Calves Extention
+* Running or Cycling: 30-45 minutes at a moderate pace
+* Planks: 3 sets, holding as long as possible
+* Russian Twists: 3 sets of 15 reps per side
+* Hanging Leg Raises: 3 sets of 10-15 reps
