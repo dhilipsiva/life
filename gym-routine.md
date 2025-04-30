@@ -1,7 +1,3 @@
-Below is your routine organized in Markdown tables, with more standardized exercise names and the weights/reps you provided. For supersets, each row shows the pair of exercises done back-to-back.
-
----
-
 ## Day 1: Chest + Upper Back
 
 | **Superset** | **Chest Exercise**                                     | **Weight x Reps**                       | **Back Exercise**                                                                   | **Weight x Reps**                |
